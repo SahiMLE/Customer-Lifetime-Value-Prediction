@@ -29,7 +29,7 @@ This project focuses on predicting Customer Lifetime Value (CLV) using various m
 
 ## Project Structure
 
-```
+
 CLV-Prediction
 ├── notebook.ipynb
 ├── README.md
